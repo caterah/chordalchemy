@@ -1,0 +1,5 @@
+{
+  "name": "ChordAlchemy",
+  "description": "An intelligent musical scale and chord explorer powered by Gemini. Discover scales, visualize notes, and build chord progressions instantly.",
+  "requestFramePermissions": []
+}
